@@ -18,13 +18,13 @@ body {
 }
 
 #left-paddle {
-  background-color: blue;
+  background-color: neon blue;
   left: 10px;
   height: 25px;
 }
 
 #right-paddle {
-  background-color: purple;
+  background-color: neon purple;
   right: 10px;
 }
 
@@ -75,7 +75,7 @@ body {
 .ball {
   width: 20px;
   height: 20px;
-  background-color: black;
+  background-color: neon pink;
   border-radius: 10px;
   position: absolute;
   left: 50px;
