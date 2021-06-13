@@ -11,20 +11,20 @@ body {
 
 #game {
   margin: 10px;
-  border: 5px solid black;
+  border: 5px solid pink;
   left: 0;
   position: absolute;
   background-size: cover;
 }
 
 #left-paddle {
-  background-color: black;
+  background-color: blue;
   left: 10px;
   height: 25px;
 }
 
 #right-paddle {
-  background-color: red;
+  background-color: purple;
   right: 10px;
 }
 
