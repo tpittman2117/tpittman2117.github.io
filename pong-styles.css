@@ -11,20 +11,20 @@ body {
 
 #game {
   margin: 10px;
-  border: 5px neon pink;
+  border: 5px pink;
   left: 0;
   position: absolute;
   background-size: cover;
 }
 
 #left-paddle {
-  background-color: neon blue;
+  background-color: blue;
   left: 10px;
   height: 25px;
 }
 
 #right-paddle {
-  background-color: neon purple;
+  background-color: purple;
   right: 10px;
 }
 
@@ -75,7 +75,7 @@ body {
 .ball {
   width: 20px;
   height: 20px;
-  background-color: neon pink;
+  background-color: pink;
   border-radius: 10px;
   position: absolute;
   left: 50px;
