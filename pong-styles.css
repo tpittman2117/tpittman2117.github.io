@@ -11,20 +11,20 @@ body {
 
 #game {
   margin: 10px;
-  border: 5px pink;
+  border: 5px #FF10F0;
   left: 0;
   position: absolute;
   background-size: cover;
 }
 
 #left-paddle {
-  background-color: blue;
+  background-color: #1F51FF;
   left: 10px;
   height: 25px;
 }
 
 #right-paddle {
-  background-color: purple;
+  background-color: #bc13fe;
   right: 10px;
 }
 
@@ -75,7 +75,7 @@ body {
 .ball {
   width: 20px;
   height: 20px;
-  background-color: pink;
+  background-color: #FF10F0;
   border-radius: 10px;
   position: absolute;
   left: 50px;
