@@ -59,7 +59,7 @@ ambientSound.player.volume.value = -20; //turn down volume
 
 export var adventureMusic = new soundFile("TaylorsPONGPROJECT.mp3");
 soundArray.push(adventureMusic);
-adventureMusic.player.loop = true;
+adventureMusic.player.loop = true; //turn on looping
 adventureMusic.player.volume.value = -16;
 
 export var villageMusic = new soundFile("phaserDown2.mp3");
