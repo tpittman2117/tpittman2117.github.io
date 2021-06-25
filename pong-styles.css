@@ -5,12 +5,13 @@ Feel free to play with things like color or font
 
 html,
 body {
-  background-image: url("2616074.jpg");
+  background-image: ;
   padding: 0;
   margin: 0;
 }
 
 #game {
+  background-image: url("2616074.jpg") ;
   margin: 10px;
   border: 5px solid black;
   left: 0;
