@@ -13,7 +13,7 @@ body {
 #game {
   background-image: url("2616074.jpg") ;
   margin: 10px;
-  border: 5px solid black;
+  border: 5px solid #FF10F0;
   left: 0;
   position: absolute;
   background-size: cover;
